@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="166.70172"
+   height="43.493366"
+   viewBox="0 0 44.106498 11.50762"
+   version="1.1"
+   id="svg1086"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo2.svg">
+  <defs
+     id="defs1080" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#3c3c3c"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.4806483"
+     inkscape:cx="85.581956"
+     inkscape:cy="21.566961"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     lock-margins="true"
+     units="px"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="2211"
+     inkscape:window-height="1332"
+     inkscape:window-x="2228"
+     inkscape:window-y="255"
+     inkscape:window-maximized="0"
+     scale-x="1.9" />
+  <metadata
+     id="metadata1083">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(54.064589,49.741519)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.629562"
+       y="-40.920696"
+       id="text846"><tspan
+         sodipodi:role="line"
+         id="tspan844"
+         x="21.629562"
+         y="-40.920696"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4113px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#26a5e4;fill-opacity:1;stroke:none;stroke-width:0.118868"
+       x="-53.701229"
+       y="-39.601971"
+       id="text925"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="-53.701229"
+         y="-39.601971"
+         style="stroke-width:0.118868"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           id="tspan929">inno</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.4113px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ae5fca;fill-opacity:1"
+           id="tspan927"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.2889px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan935">M</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87778px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             id="tspan933">x</tspan></tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan923"
+         x="-53.701229"
+         y="-25.337847"
+         style="stroke-width:0.118868" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(49.80746,14.026895)" />
+</svg>

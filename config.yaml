@@ -1,0 +1,24 @@
+baseURL: http://innomx.com/
+languageCode: en-us
+title: InnoMx | Pharmacometric Solutions
+theme: hugo-hero-theme
+
+phone: +1 514-433-9444
+email: info@innomx.com
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: About
+      url: "/#home"
+      weight: 10
+    - name: Services
+      url: "/#services"
+      weight: 20
+    - name: Contact
+      url: "/contact/"
+      weight: 30
