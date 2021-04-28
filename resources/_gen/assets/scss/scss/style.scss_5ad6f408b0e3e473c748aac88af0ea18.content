@@ -5447,12 +5447,20 @@ ol {
     justify-content: space-between;
     align-items: center; }
   .header.header-absolute {
-    position: absolute;
+    /* position: absolute; */
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
     z-index: 10;
     width: 100%; }
 
 .lock-scroll .header.header-absolute {
-  position: static; }
+  /* position: static; */
+  position: -webkit-sticky;
+  /* Safari */
+  position: sticky;
+  top: 0; }
 
 .footer {
   background: #43454d;
