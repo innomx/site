@@ -14,9 +14,15 @@ development and regulatory strategy.
 
 He has over 15 years of experience as a consultant, developing and using
 mathematical and statistical models to inform drug development programs.  Since
-2005, he has contributed to over 10 regulatory fillings and drug approvals.
+2005, he has contributed to over a dozen regulatory fillings and drug
+approvals. All the while, he has pushed to evolve the whole practice of
+pharmacometrics, through better frameworks and tools. Which is why he
+has partnered with [Pumas-AI](https://pumas.ai), makers of the most
+forward-looking and cutting-edge pharmacometrics platform on the planet.
 
-He is an experienced writer of R packages, as well as interactive data analysis
+Particular areas of expertise include exposure-response analysis of
+time-to-event endpoints with time-varying exposure, pharmacokinetics of
+monoclonal antibodies, clinical trial simulations and interactive data analysis
 and visualization apps using the R Shiny framework.
 
 He holds a Bachelors degree in Join Honours Mathematics and Computer Science and
