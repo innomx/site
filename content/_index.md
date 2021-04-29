@@ -11,4 +11,3 @@ heroBackground: 'images/background.jpg'
 
 ### In partnership with [![Pumas-AI](images/pumas-brand-footer.svg)](https://pumas.ai)
 
-<small>In development ... more coming soon</small>
